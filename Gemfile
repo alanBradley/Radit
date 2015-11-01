@@ -29,6 +29,8 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 # Added votable for vote ability on links
 gem 'acts_as_votable', '~> 0.10.0'
+# Added for comments form
+gem 'simple_form', '~> 3.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
